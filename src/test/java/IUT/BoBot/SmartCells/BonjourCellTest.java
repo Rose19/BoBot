@@ -4,9 +4,9 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+
 public class BonjourCellTest {
-	
-	BonjourCell cell = new BonjourCell();
+		BonjourCell cell = new BonjourCell();
 
 	@Test
 	public void testBonjour() {
